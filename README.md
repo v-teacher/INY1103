@@ -1,17 +1,19 @@
 Fundamentos Cloud II
 ========================
-Scripts for INY1103
+Scripts para INY1103
 
 Fundamentos Cloud II es una asignatura de especialidad ubicada en el segundo semestre del itinerario formativo de la carrera de Ingeniería en Infraestructura Tecnológica/Técnico en Infraestructura Tecnológica, dentro de la línea formativa Fundamentos Cloud Computing. 
 
 Su propósito es que los/las estudiantes apliquen los principios del Cloud Computing, orientados a la administración eficiente, segura y escalable de recursos digitales.
 
-# Repositorio de recursos de scritps u otros útiles o necesarios para la clase
+# Objetivo del repositorio
 ========================
 
-Todo/das son bienvenidos/das a colaborar aquí a través de las prácticas del Gitflow. Los cambios a la rama main deben ser siempre a través de la aprobación de Pull Request.
+Este es un repositorio de recursos de scritps u otros archivos útiles o necesarios para desarrollo la clase.
 
-URLs de utilidad
+Todos/das son bienvenidos/das a colaborar aquí usando las prácticas del Gitflow. Los cambios a la rama main deben ser siempre a través de la aprobación de Pull Request.
+
+URLs de de referencia o utilidad
 -------------------------
 
 # Reference for sql script:
