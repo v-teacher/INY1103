@@ -1,4 +1,4 @@
-Fundamentos Cloud II
+# Fundamentos Cloud II
 ========================
 Scripts para INY1103
 
@@ -13,8 +13,8 @@ Este es un repositorio de recursos de scritps u otros archivos útiles o necesar
 
 Todos/das son bienvenidos/das a colaborar aquí usando las prácticas del Gitflow. Los cambios a la rama main deben ser siempre a través de la aprobación de Pull Request.
 
-URLs de de referencia o utilidad
--------------------------
+# URLs de de referencia o utilidad
+========================
 
 # Reference for sql script:
 
