@@ -13,12 +13,12 @@ Todos/das son bienvenidos/das a colaborar aquí usando las prácticas del Gitflo
 
 # URLs de de referencia o utilidad
 
-Reference for sql script
+#### Reference for sql script
 ========================
 
 - [Create Table SQL](https://www.geeksforgeeks.org/sql-create-table/)
 - [Select SQL](https://www.geeksforgeeks.org/sql-select-query/)
 
-Reference for Gitflow
+### Reference for Gitflow
 ========================
 - [Flujo de trabajo de Gitflow](https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflow-workflow)
