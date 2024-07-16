@@ -14,29 +14,21 @@
 
 <p align="justify"> Su propósito es que los/las estudiantes apliquen los principios del Cloud Computing, orientados a la administración eficiente, segura y escalable de recursos digitales.</p>
 
-# Objetivo del repositorio
+#### Objetivo del repositorio
 
 <p align="justify"> Este es un repositorio de recursos de scritps u otros archivos útiles o necesarios para desarrollo la clase.
 
 <!-- Todos/das son bienvenidos/das a colaborar aquí usando las prácticas del Gitflow. Los cambios a la rama main deben ser siempre a través de la aprobación de Pull Request. </p> -->
 
-## REQUERIMIENTOS PARA ESTA ACTIVIDAD
+<!-- ## REQUERIMIENTOS PARA ESTA ACTIVIDAD
 
 Para el desarrollo de esta actividad se requiere ...
 
 ## DESARROLLO DE ACTIVIDAD
 
-Esta actividad consiste en ...
+Esta actividad consiste en ... -->
 
-## CONTRIBUCIONES
-
-Contribuciones son bienvenidas! Revisa nuestra [Guía de Contribuciones](./docs/contributors.md)
-
-## CÓDIGO DE CONDUCTA
-
-👋 Por favor, contribuye con amabilidad. Revisa nuestro [Código de Conducta](./docs/CODE_OF_CONDUCT.md)
-
-# URLs de de referencia o utilidad
+## URLs de de referencia o utilidad
 
 ##### Reference for sql script
 
@@ -46,3 +38,11 @@ Contribuciones son bienvenidas! Revisa nuestra [Guía de Contribuciones](./docs/
 ##### Reference for Gitflow
 
 - [Flujo de trabajo de Gitflow](https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflow-workflow)
+
+## CONTRIBUCIONES
+
+Contribuciones son bienvenidas! Revisa nuestra [Guía de Contribuciones](./docs/contributors.md)
+
+## CÓDIGO DE CONDUCTA
+
+👋 Por favor, contribuye con amabilidad. Revisa nuestro [Código de Conducta](./docs/CODE_OF_CONDUCT.md)
