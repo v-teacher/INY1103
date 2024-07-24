@@ -17,16 +17,6 @@
 
 <p align="justify"> Este es un repositorio de recursos de scritps u otros archivos útiles o necesarios para desarrollo la clase.
 
-<!-- Todos/das son bienvenidos/das a colaborar aquí usando las prácticas del Gitflow. Los cambios a la rama main deben ser siempre a través de la aprobación de Pull Request. </p> -->
-
-<!-- ## REQUERIMIENTOS PARA ESTA ACTIVIDAD
-
-Para el desarrollo de esta actividad se requiere ...
-
-## DESARROLLO DE ACTIVIDAD
-
-Esta actividad consiste en ... -->
-
 ## URLs de de referencia o utilidad
 
 ##### Reference for sql script
@@ -35,14 +25,12 @@ Esta actividad consiste en ... -->
 - [Select SQL](https://www.geeksforgeeks.org/sql-select-query/)
 
 
-
-
 ## ACTIVIDADES
 
 ## User data
 #### ANTECEDENTES GENERALES
 
-El [user data](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/user-data.html) de AWS es un conjunto de instrucciones que se puede proporcionar al iniciar una instancia de Amazon EC2 para automatizar tareas de configuración. Estas instrucciones pueden ser scripts en shell, comandos de configuración, o scripts en otros lenguajes que se ejecutan al inicio de la instancia. El User Data se usa comúnmente para:
+El [user data](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/user-data.html) de ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=aws&logoColor=white) es un conjunto de instrucciones que se puede proporcionar al iniciar una instancia de Amazon EC2 para automatizar tareas de configuración. Estas instrucciones pueden ser scripts en shell, comandos de configuración, o scripts en otros lenguajes que se ejecutan al inicio de la instancia. El User Data se usa comúnmente para:
 
 1. **Instalación de software**: Automáticamente instalar paquetes y aplicaciones necesarios.
 2. **Configuración del sistema**: Realizar ajustes de configuración en el sistema operativo o en aplicaciones.
@@ -71,7 +59,7 @@ En esta práctica, crearás una función AWS Lambda que se activará cada minuto
 
 #### REQUERIMIENTOS PARA ESTA ACTIVIDAD
 
-Para el desarrollo de esta actividad se requiere el script ./lambda_function.py
+Para el desarrollo de esta actividad se requiere el script lambda_function.py alojada en la raíz de este repositorio.
 
 #### DESARROLLO DE ACTIVIDAD
 
@@ -90,6 +78,8 @@ Contribuciones son bienvenidas! Revisa nuestra [Guía de Contribuciones](./docs/
 ##### Reference for Gitflow
 
 - [Flujo de trabajo de Gitflow](https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflow-workflow)
+
+<!-- Todos/das son bienvenidos/das a colaborar aquí usando las prácticas del Gitflow. Los cambios a la rama main deben ser siempre a través de la aprobación de Pull Request. </p> -->
 
 ## CÓDIGO DE CONDUCTA
 
