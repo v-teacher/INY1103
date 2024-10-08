@@ -59,7 +59,7 @@ En esta práctica, crearás una función AWS Lambda que se activará cada minuto
 
 #### REQUERIMIENTOS PARA ESTA ACTIVIDAD
 
-Para el desarrollo de esta actividad se requiere el script lambda_function.py alojada en la raíz de este repositorio.
+Para el desarrollo de esta actividad se requiere el script [lambda_function.py](lambda_function.py) alojada en la raíz de este repositorio.
 
 #### DESARROLLO DE ACTIVIDAD
 
