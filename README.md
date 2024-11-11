@@ -27,7 +27,7 @@
 
 ## ACTIVIDADES
 
-## User data
+## User data (datos usuario)
 #### ANTECEDENTES GENERALES
 
 El [user data](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/user-data.html) de ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=aws&logoColor=white) es un conjunto de instrucciones que se puede proporcionar al iniciar una instancia de Amazon EC2 para automatizar tareas de configuración. Estas instrucciones pueden ser scripts en shell, comandos de configuración, o scripts en otros lenguajes que se ejecutan al inicio de la instancia. El User Data se usa comúnmente para:
